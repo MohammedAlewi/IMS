@@ -1,0 +1,5 @@
+[2020-03-16 22:17:20.241] [renderer1] [warning] UNRESPONSIVE extension host, 'IBMBlockchain.ibm-blockchain-platform' took 100% of 5406.976ms, saved PROFILE here: '/tmp/exthost-e1b324.cpuprofile' [{"id":"gc","total":9041,"percentage":0},{"id":"IBMBlockchain.ibm-blockchain-platform","total":5397497,"percentage":100}]
+[2020-03-16 22:17:20.262] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error
+    at XMLHttpRequest.r.onerror (file:///snap/code/26/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:401:119)
+[2020-03-16 22:17:43.124] [renderer1] [error] An unknown error occurred. Please consult the log for more details.: Error
+    at XMLHttpRequest.r.onerror (file:///snap/code/26/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:401:119)

@@ -1,0 +1,96 @@
+[2020-03-16 22:17:10.235] [exthost] [info] extension host started
+[2020-03-16 22:17:10.276] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-16 22:17:10.276] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-16 22:17:10.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-16 22:17:10.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-16 22:17:10.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-16 22:17:10.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-16 22:17:10.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-03-16 22:17:10.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-03-16 22:17:10.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-16 22:17:10.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-16 22:17:10.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-16 22:17:10.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-03-16 22:17:10.341] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-16 22:17:10.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-16 22:17:10.343] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-03-16 22:17:10.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-03-16 22:17:10.411] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-03-16 22:17:10.411] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-03-16 22:17:12.847] [exthost] [info] ExtensionService#_doActivateExtension IBMBlockchain.ibm-blockchain-platform {"startup":true,"extensionId":{"value":"IBMBlockchain.ibm-blockchain-platform","_lower":"ibmblockchain.ibm-blockchain-platform"},"activationEvent":"*"}
+[2020-03-16 22:17:12.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/ibmblockchain.ibm-blockchain-platform-1.0.23/build/extension/extension
+[2020-03-16 22:17:24.606] [exthost] [info] ExtensionService#_doActivateExtension legfrey.javascript-test-runner {"startup":true,"extensionId":{"value":"legfrey.javascript-test-runner","_lower":"legfrey.javascript-test-runner"},"activationEvent":"*"}
+[2020-03-16 22:17:24.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/legfrey.javascript-test-runner-1.0.0/out/extension
+[2020-03-16 22:17:24.739] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2020-03-16 22:17:24.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/ms-vscode.cpptools-0.26.3/dist/main
+[2020-03-16 22:17:24.951] [exthost] [info] ExtensionService#_doActivateExtension oshri6688.javascript-test-runner {"startup":true,"extensionId":{"value":"oshri6688.javascript-test-runner","_lower":"oshri6688.javascript-test-runner"},"activationEvent":"*"}
+[2020-03-16 22:17:24.951] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/oshri6688.javascript-test-runner-1.2.1/out/extension
+[2020-03-16 22:17:25.086] [exthost] [info] eager extensions activated
+[2020-03-16 22:17:25.278] [exthost] [error] Activating extension oshri6688.javascript-test-runner failed due to an error:
+[2020-03-16 22:17:25.280] [exthost] [error] Error: command 'javascript-test-runner.run.test' already exists
+	at _.registerCommand (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:547:974)
+	at Object.registerCommand (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:792:899)
+	at activate (/home/xad/.vscode/extensions/oshri6688.javascript-test-runner-1.2.1/out/extension.js:10:23)
+	at Function._callActivateOptional (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:722:204)
+	at Function._callActivate (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:721:862)
+	at /snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:720:960
+	at async Promise.all (index 12)
+[2020-03-16 22:17:25.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-16 22:17:25.421] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-03-16 22:17:25.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-16 22:17:25.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-03-16 22:17:25.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-16 22:17:25.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-03-16 22:17:34.486] [exthost] [info] extension host started
+[2020-03-16 22:17:34.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-16 22:17:34.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-16 22:17:34.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-16 22:17:34.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-16 22:17:34.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-16 22:17:34.523] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-16 22:17:34.540] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-03-16 22:17:34.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-03-16 22:17:34.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-16 22:17:34.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-16 22:17:34.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-16 22:17:34.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-03-16 22:17:34.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-16 22:17:34.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-16 22:17:34.547] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-03-16 22:17:34.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-03-16 22:17:34.605] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-03-16 22:17:34.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-03-16 22:17:34.643] [exthost] [info] ExtensionService#_doActivateExtension IBMBlockchain.ibm-blockchain-platform {"startup":true,"extensionId":{"value":"IBMBlockchain.ibm-blockchain-platform","_lower":"ibmblockchain.ibm-blockchain-platform"},"activationEvent":"*"}
+[2020-03-16 22:17:34.644] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/ibmblockchain.ibm-blockchain-platform-1.0.23/build/extension/extension
+[2020-03-16 22:17:36.271] [exthost] [info] ExtensionService#_doActivateExtension legfrey.javascript-test-runner {"startup":true,"extensionId":{"value":"legfrey.javascript-test-runner","_lower":"legfrey.javascript-test-runner"},"activationEvent":"*"}
+[2020-03-16 22:17:36.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/legfrey.javascript-test-runner-1.0.0/out/extension
+[2020-03-16 22:17:36.281] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2020-03-16 22:17:36.281] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/ms-vscode.cpptools-0.26.3/dist/main
+[2020-03-16 22:17:36.338] [exthost] [info] ExtensionService#_doActivateExtension oshri6688.javascript-test-runner {"startup":true,"extensionId":{"value":"oshri6688.javascript-test-runner","_lower":"oshri6688.javascript-test-runner"},"activationEvent":"*"}
+[2020-03-16 22:17:36.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/oshri6688.javascript-test-runner-1.2.1/out/extension
+[2020-03-16 22:17:36.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-03-16 22:17:36.361] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-03-16 22:17:36.448] [exthost] [error] Activating extension oshri6688.javascript-test-runner failed due to an error:
+[2020-03-16 22:17:36.452] [exthost] [error] Error: command 'javascript-test-runner.run.test' already exists
+	at _.registerCommand (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:547:974)
+	at Object.registerCommand (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:792:899)
+	at activate (/home/xad/.vscode/extensions/oshri6688.javascript-test-runner-1.2.1/out/extension.js:10:23)
+	at Function._callActivateOptional (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:722:204)
+	at Function._callActivate (/snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:721:862)
+	at /snap/code/26/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:720:960
+	at async Promise.all (index 12)
+[2020-03-16 22:17:36.743] [exthost] [info] eager extensions activated
+[2020-03-16 22:17:44.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-16 22:17:44.474] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-03-16 22:17:44.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-16 22:17:44.481] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-03-16 22:17:44.515] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-16 22:17:44.515] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-03-16 22:17:58.669] [exthost] [info] ExtensionService#_doActivateExtension onecentlin.laravel-blade {"startup":false,"extensionId":{"value":"onecentlin.laravel-blade","_lower":"onecentlin.laravel-blade"},"activationEvent":"onLanguage:blade"}
+[2020-03-16 22:17:58.669] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/xad/.vscode/extensions/onecentlin.laravel-blade-1.20.0/out/src/extension
+[2020-03-16 22:19:07.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2020-03-16 22:19:07.513] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2020-03-16 22:43:45.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-03-16 22:43:45.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-03-17 12:09:45.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2020-03-17 12:09:45.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/26/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
